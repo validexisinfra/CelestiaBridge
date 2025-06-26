@@ -30,16 +30,16 @@ _(e.g., `validexis.json`)_
 
 ```
 {
-  "keybaseIdentity": "DD010D13A474ACA3",
-  "name": "Validexis",
-  "website": "https://validexis.com",
-  "email": "info@validexis.com",
-  "validatorAddress": "celestiavaloper1abc123...",
-  "bridgeNodeID": "12D3KooWQqwe12345abc...",
-  "logo": "https://validexis.com/logo.png",
-  "telegram": "validexis",
-  "twitter": "validexis",
-  "github": "validexisinfra",
+  "keybaseIdentity": "YOUR_KEYBASE_ID",
+  "name": "Your Validator or Relayer Name",
+  "website": "https://yourwebsite.example",
+  "email": "youremail@example.com",
+  "validatorAddress": "celestiavaloper1youraddress...",
+  "bridgeNodeID": "12D3KooWyourpeerid...",
+  "logo": "https://yourwebsite.example/logo.png",
+  "telegram": "yourtelegramhandle",
+  "twitter": "yourtwitterhandle",
+  "github": "yourgithubhandle",
   "description": "Validator and infra provider for Celestia and other Cosmos-based networks"
 }
 ```
@@ -64,12 +64,6 @@ Copy the **Peer ID** from the output and paste it into the `bridgeNodeID` field 
 1. Commit your `.json` file to your fork  
 2. Open a **Pull Request (PR)** to this repository  
 3. Once reviewed and merged, your metadata will be picked up automatically by [https://celestiabridge.com](https://celestiabridge.com) and similar tools
-
----
-
-## ✅ Example
-
-See [`bridge_nodes/validexis.json`](./bridge_nodes/validexis.json) for a real-world example.
 
 ---
 

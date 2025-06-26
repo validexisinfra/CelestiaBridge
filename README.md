@@ -31,7 +31,7 @@ _(e.g., `validexis.json`)_
 ```
 {
   "keybaseIdentity": "YOUR_KEYBASE_ID",
-  "name": "Your Validator or Relayer Name",
+  "name": "Your Validator Name",
   "website": "https://yourwebsite.example",
   "email": "youremail@example.com",
   "validatorAddress": "celestiavaloper1youraddress...",

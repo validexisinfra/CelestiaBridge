@@ -52,9 +52,18 @@ _(e.g., `validexis.json`)_
 
 Run this command on your Celestia bridge node:
 
+#### 🧪 For **Testnet (mocha-4)**:
+
 ```bash
 celestia p2p info --node.store ~/.celestia-bridge-mocha-4/
 ```
+
+#### 🌐 For **Mainnet**:
+
+```bash
+celestia p2p info --node.store ~/.celestia-bridge/
+```
+
 Copy the **Peer ID** from the output and paste it into the `bridgeNodeID` field of your JSON file.
 
 ---

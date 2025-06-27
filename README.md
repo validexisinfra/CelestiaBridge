@@ -36,6 +36,8 @@ _(e.g., `validexis.json`)_
   "email": "youremail@example.com",
   "validatorAddress": "celestiavaloper1youraddress...",
   "bridgeNodeID": "12D3KooWyourpeerid...",
+  "validatorAddress_testnet": "celestiavaloper1youraddress...",
+  "bridgeNodeID_testnet": "12D3KooWyourpeerid...",
   "logo": "https://yourwebsite.example/logo.png",
   "telegram": "yourtelegramhandle",
   "twitter": "yourtwitterhandle",

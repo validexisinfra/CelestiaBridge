@@ -83,5 +83,5 @@ Copy the **Peer ID** from the output and paste it into the `bridgeNodeID` field 
 If you have any questions or need help:
 
 - Telegram: [@validexisinfra](https://t.me/validexisinfra)
-- Email: [validexisglobal@gmail.com](validexisglobal@gmail.com)
+- Email: [validexisglobal@gmail.com](mailto:validexisglobal@gmail.com)
 
